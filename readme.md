@@ -15,3 +15,13 @@ npm i
 ```bash
 npm run dev
 ```
+
+### Jeeli polecenia nie działają wpisz sudo przed polecenie lub nadaj uprawnienia do folderu
+
+```bash
+sudo npm i
+```
+
+```bash
+sudo npm run dev
+```
