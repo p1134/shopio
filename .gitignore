@@ -1,3 +1,7 @@
 node_modules/
+<<<<<<< HEAD
 .firebase
 dist/
+=======
+firebase.ts
+>>>>>>> 79ae354ce2d590bf1fed167a9a87e2909815bad9

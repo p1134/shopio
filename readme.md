@@ -25,3 +25,9 @@ sudo npm i
 ```bash
 sudo npm run dev
 ```
+
+### Aby podegrać wersje wpisz
+
+```bash
+sudo firebase deploy --only hosting:shopio-prsk
+```
